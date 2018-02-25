@@ -28,3 +28,5 @@
 * CSS
 * JavaScript
 * Leaflet 
+
+![alt text](https://github.com/mrbalikci/earthquake-map-world/blob/master/snip.PNG)
